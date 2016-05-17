@@ -1,0 +1,70 @@
+5.5:
+1,Finish the box -> mouse click and walking.
+2,Change the above, set an empty as target and load the scipt here.
+
+5.6:
+1,Mouse selecting setting and coding.
+
+5.7:
+1,Set 0.1 second reaction instead of 1 second after mouse clicking.
+2,Click tank and show it's selected.
+3, Right click -> feed back.
+
+5.8:
+1,Fix the Right click bugs: Flag doesn't disappear until it reach the point.
+2,Tank's HP display.
+3,Tank property script.
+4,Destroy when HP -> 0
+
+5.9&5.10:
+-weekend.
+
+5.11:
+1,Fix the rest of the flag bugs: destroy by different tank && others.
+2,Create Enemy system.
+3,ViewRange beginning setting.
+4,Control acceleration.
+
+5.12:
+-Sick, off the work.
+
+5.13:
+1,Get clear with view range.
+2,Reaction -> gets view range (when enemy is into the view range it will react).
+3,Basic shooting setting design
+	- Bullet? ->No
+	- Speed? ->No
+	- Cross the Wall? ->Yes
+
+5.14:
+1,Model remake - Tank and flag
+2,Turnning the head smoothly.
+3,Change the pivot of each models.
+4,Remanage the walker_manager system and enemy_manager system.
+5,Shooting system design: 
+- Enemy in range
+- View range warning on
+- Viewrange number locked to enemy number
+- Start turn head
+- Shooting
+
+5.15
+-Starting the shooting system, get stucked, it's buggy
+
+5.18
+-Continue to do the shooting system.
+-Trying bullet shooting.
+-Work not quite good.
+
+5.19
+-Continue to do the shooting system.
+-Cancel the bullet shooting.
+-Use "GetComponent"
+
+5.20
+-Finish the shooting system.
+-Fix the damage bug.
+-Fix the set destination bug.
+
+5.21-6.3
+-Start learning and working on input touch system.
